@@ -84,6 +84,7 @@
                 </ul>
             </div>
         </div>
+        
         <script src="{{ asset('white') }}/js/core/jquery.min.js"></script>
         <script src="{{ asset('white') }}/js/core/popper.min.js"></script>
         <script src="{{ asset('white') }}/js/core/bootstrap.min.js"></script>
